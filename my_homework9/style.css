@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.btn1, .btn2, .btn3, .btn4, .btn5 {
+    width: 50px;
+}
+.second_task, .third_task , .forth_task, .fifth_task{
+    margin-top: 30px;
+}
+
+
+
+.red_square {
+    margin-top: 20px;
+    width: 200px;
+    aspect-ratio: 1;
+    background-color: red;
+}
+.pink_square {
+    margin-top: 20px;
+    width: 200px;
+    aspect-ratio: 1;
+    background-color: pink;
+}
+.new_square {
+    margin-top: 20px;
+    width: 150px;
+    aspect-ratio: 1;
+    background-color: khaki;
+}
